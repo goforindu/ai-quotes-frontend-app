@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "quote": "You have the right to work, but never to the fruit of work.",
+    "description": "Focus on your duties without attachment to outcomes.",
+    "example": "Study hard not just to top the exam, but to gain knowledge. "
+  },
+  {
+    "id": 2,
+    "quote": "Change is the law of the universe.",
+    "description": "Nothing is permanent—good or bad.",
+    "example": "Tough times are temporary, like the passing seasons. "
+  },
+  {
+    "id": 3,
+    "quote": "A person can rise through the efforts of his own mind.",
+    "description": "Self-effort and discipline shape your destiny.",
+    "example": "Even if born in poverty, hard work and focus can lead to success. "
+  },
+  {
+    "id": 4,
+    "quote": "There is neither this world, nor the world beyond, nor happiness for the one who doubts.",
+    "description": "Doubt weakens action and faith. Be confident in your path.",
+    "example": "If you constantly doubt your ability to learn, you’ll stop trying. "
+  },
+  {
+    "id": 5,
+    "quote": "Man is made by his belief. As he believes, so he is.",
+    "description": "Your thoughts and beliefs shape your reality.",
+    "example": "If you believe you’re capable, your actions will reflect it. "
+  },
+  {
+    "id": 6,
+    "quote": "You have the right to work, but never to the fruit of work.",
+    "description": "Focus on your duties without attachment to outcomes.",
+    "example": "Study hard not just to top the exam, but to gain knowledge. "
+  },
+  {
+    "id": 7,
+    "quote": "Change is the law of the universe.",
+    "description": "Nothing is permanent—good or bad.",
+    "example": "Tough times are temporary, like the passing seasons. "
+  },
+  {
+    "id": 8,
+    "quote": "A person can rise through the efforts of his own mind.",
+    "description": "Self-effort and discipline shape your destiny.",
+    "example": "Even if born in poverty, hard work and focus can lead to success. "
+  },
+  {
+    "id": 9,
+    "quote": "There is neither this world, nor the world beyond, nor happiness for the one who doubts.",
+    "description": "Doubt weakens action and faith. Be confident in your path.",
+    "example": "If you constantly doubt your ability to learn, you’ll stop trying. "
+  },
+  {
+    "id": 10,
+    "quote": "Man is made by his belief. As he believes, so he is.",
+    "description": "Your thoughts and beliefs shape your reality.",
+    "example": "If you believe you’re capable, your actions will reflect it. "
+  },
+  {
+    "id": 11,
+    "quote": "You have the right to work, but never to the fruit of work.",
+    "description": "Focus on your duties without attachment to outcomes.",
+    "example": "Study hard not just to top the exam, but to gain knowledge. "
+  },
+  {
+    "id": 12,
+    "quote": "Change is the law of the universe.",
+    "description": "Nothing is permanent—good or bad.",
+    "example": "Tough times are temporary, like the passing seasons. "
+  },
+  {
+    "id": 13,
+    "quote": "A person can rise through the efforts of his own mind.",
+    "description": "Self-effort and discipline shape your destiny.",
+    "example": "Even if born in poverty, hard work and focus can lead to success. "
+  },
+  {
+    "id": 14,
+    "quote": "There is neither this world, nor the world beyond, nor happiness for the one who doubts.",
+    "description": "Doubt weakens action and faith. Be confident in your path.",
+    "example": "If you constantly doubt your ability to learn, you’ll stop trying. "
+  },
+  {
+    "id": 15,
+    "quote": "Man is made by his belief. As he believes, so he is.",
+    "description": "Your thoughts and beliefs shape your reality.",
+    "example": "If you believe you’re capable, your actions will reflect it. "
+  },
+  {
+    "id": 16,
+    "quote": "You have the right to work, but never to the fruit of work.",
+    "description": "Focus on your duties without attachment to outcomes.",
+    "example": "Study hard not just to top the exam, but to gain knowledge. "
+  },
+  {
+    "id": 17,
+    "quote": "Change is the law of the universe.",
+    "description": "Nothing is permanent—good or bad.",
+    "example": "Tough times are temporary, like the passing seasons. "
+  },
+  {
+    "id": 18,
+    "quote": "A person can rise through the efforts of his own mind.",
+    "description": "Self-effort and discipline shape your destiny.",
+    "example": "Even if born in poverty, hard work and focus can lead to success. "
+  },
+  {
+    "id": 19,
+    "quote": "There is neither this world, nor the world beyond, nor happiness for the one who doubts.",
+    "description": "Doubt weakens action and faith. Be confident in your path.",
+    "example": "If you constantly doubt your ability to learn, you’ll stop trying. "
+  },
+  {
+    "id": 20,
+    "quote": "Man is made by his belief. As he believes, so he is.",
+    "description": "Your thoughts and beliefs shape your reality.",
+    "example": "If you believe you’re capable, your actions will reflect it. "
+  },
+  {
+    "id": 21,
+    "quote": "You have the right to work, but never to the fruit of work.",
+    "description": "Focus on your duties without attachment to outcomes.",
+    "example": "Study hard not just to top the exam, but to gain knowledge. ()"
+  },
+  {
+    "id": 22,
+    "quote": "Change is the law of the universe.",
+    "description": "Nothing is permanent—good or bad.",
+    "example": "Tough times are temporary, like the passing seasons. ()"
+  },
+  {
+    "id": 23,
+    "quote": "A person can rise through the efforts of his own mind.",
+    "description": "Self-effort and discipline shape your destiny.",
+    "example": "Even if born in poverty, hard work and focus can lead to success. ()"
+  },
+  {
+    "id": 24,
+    "quote": "There is neither this world, nor the world beyond, nor happiness for the one who doubts.",
+    "description": "Doubt weakens action and faith. Be confident in your path.",
+    "example": "If you constantly doubt your ability to learn, you’ll stop trying. ()"
+  },
+  {
+    "id": 25,
+    "quote": "Man is made by his belief. As he believes, so he is.",
+    "description": "Your thoughts and beliefs shape your reality.",
+    "example": "If you believe you’re capable, your actions will reflect it. ()"
+  },
+  {
+    "id": 26,
+    "quote": "You have the right to work, but never to the fruit of work.",
+    "description": "Focus on your duties without attachment to outcomes.",
+    "example": "Study hard not just to top the exam, but to gain knowledge. ()"
+  },
+  {
+    "id": 27,
+    "quote": "Change is the law of the universe.",
+    "description": "Nothing is permanent—good or bad.",
+    "example": "Tough times are temporary, like the passing seasons. ()"
+  },
+  {
+    "id": 28,
+    "quote": "A person can rise through the efforts of his own mind.",
+    "description": "Self-effort and discipline shape your destiny.",
+    "example": "Even if born in poverty, hard work and focus can lead to success. ()"
+  },
+  {
+    "id": 29,
+    "quote": "There is neither this world, nor the world beyond, nor happiness for the one who doubts.",
+    "description": "Doubt weakens action and faith. Be confident in your path.",
+    "example": "If you constantly doubt your ability to learn, you’ll stop trying. ()"
+  },
+  {
+    "id": 30,
+    "quote": "Man is made by his belief. As he believes, so he is.",
+    "description": "Your thoughts and beliefs shape your reality.",
+    "example": "If you believe you’re capable, your actions will reflect it. ()"
+  },
+  {
+    "id": 31,
+    "quote": "You have the right to work, but never to the fruit of work.",
+    "description": "Focus on your duties without attachment to outcomes.",
+    "example": "Study hard not just to top the exam, but to gain knowledge. ()"
+  },
+  {
+    "id": 32,
+    "quote": "Change is the law of the universe.",
+    "description": "Nothing is permanent—good or bad.",
+    "example": "Tough times are temporary, like the passing seasons. ()"
+  },
+  {
+    "id": 33,
+    "quote": "A person can rise through the efforts of his own mind.",
+    "description": "Self-effort and discipline shape your destiny.",
+    "example": "Even if born in poverty, hard work and focus can lead to success. ()"
+  },
+  {
+    "id": 34,
+    "quote": "There is neither this world, nor the world beyond, nor happiness for the one who doubts.",
+    "description": "Doubt weakens action and faith. Be confident in your path.",
+    "example": "If you constantly doubt your ability to learn, you’ll stop trying. ()"
+  },
+  {
+    "id": 35,
+    "quote": "Man is made by his belief. As he believes, so he is.",
+    "description": "Your thoughts and beliefs shape your reality.",
+    "example": "If you believe you’re capable, your actions will reflect it. ()"
+  },
+  {
+    "id": 36,
+    "quote": "You have the right to work, but never to the fruit of work.",
+    "description": "Focus on your duties without attachment to outcomes.",
+    "example": "Study hard not just to top the exam, but to gain knowledge. ()"
+  },
+  {
+    "id": 37,
+    "quote": "Change is the law of the universe.",
+    "description": "Nothing is permanent—good or bad.",
+    "example": "Tough times are temporary, like the passing seasons. ()"
+  },
+  {
+    "id": 38,
+    "quote": "A person can rise through the efforts of his own mind.",
+    "description": "Self-effort and discipline shape your destiny.",
+    "example": "Even if born in poverty, hard work and focus can lead to success. ()"
+  },
+  {
+    "id": 39,
+    "quote": "There is neither this world, nor the world beyond, nor happiness for the one who doubts.",
+    "description": "Doubt weakens action and faith. Be confident in your path.",
+    "example": "If you constantly doubt your ability to learn, you’ll stop trying. ()"
+  },
+  {
+    "id": 40,
+    "quote": "Man is made by his belief. As he believes, so he is.",
+    "description": "Your thoughts and beliefs shape your reality.",
+    "example": "If you believe you’re capable, your actions will reflect it. ()"
+  },
+  {
+    "id": 41,
+    "quote": "You have the right to work, but never to the fruit of work.",
+    "description": "Focus on your duties without attachment to outcomes.",
+    "example": "Study hard not just to top the exam, but to gain knowledge. ()"
+  },
+  {
+    "id": 42,
+    "quote": "Change is the law of the universe.",
+    "description": "Nothing is permanent—good or bad.",
+    "example": "Tough times are temporary, like the passing seasons. ()"
+  },
+  {
+    "id": 43,
+    "quote": "A person can rise through the efforts of his own mind.",
+    "description": "Self-effort and discipline shape your destiny.",
+    "example": "Even if born in poverty, hard work and focus can lead to success. ()"
+  },
+  {
+    "id": 44,
+    "quote": "There is neither this world, nor the world beyond, nor happiness for the one who doubts.",
+    "description": "Doubt weakens action and faith. Be confident in your path.",
+    "example": "If you constantly doubt your ability to learn, you’ll stop trying. ()"
+  },
+  {
+    "id": 45,
+    "quote": "Man is made by his belief. As he believes, so he is.",
+    "description": "Your thoughts and beliefs shape your reality.",
+    "example": "If you believe you’re capable, your actions will reflect it. ()"
+  },
+  {
+    "id": 46,
+    "quote": "You have the right to work, but never to the fruit of work.",
+    "description": "Focus on your duties without attachment to outcomes.",
+    "example": "Study hard not just to top the exam, but to gain knowledge. ()"
+  },
+  {
+    "id": 47,
+    "quote": "Change is the law of the universe.",
+    "description": "Nothing is permanent—good or bad.",
+    "example": "Tough times are temporary, like the passing seasons. ()"
+  },
+  {
+    "id": 48,
+    "quote": "A person can rise through the efforts of his own mind.",
+    "description": "Self-effort and discipline shape your destiny.",
+    "example": "Even if born in poverty, hard work and focus can lead to success. ()"
+  },
+  {
+    "id": 49,
+    "quote": "There is neither this world, nor the world beyond, nor happiness for the one who doubts.",
+    "description": "Doubt weakens action and faith. Be confident in your path.",
+    "example": "If you constantly doubt your ability to learn, you’ll stop trying. ()"
+  },
+  {
+    "id": 50,
+    "quote": "Man is made by his belief. As he believes, so he is.",
+    "description": "Your thoughts and beliefs shape your reality.",
+    "example": "If you believe you’re capable, your actions will reflect it. ()"
+  },
+  {
+    "id": 51,
+    "quote": "You have the right to work, but never to the fruit of work.",
+    "description": "Focus on your duties without attachment to outcomes.",
+    "example": "Study hard not just to top the exam, but to gain knowledge. ()"
+  },
+  {
+    "id": 52,
+    "quote": "Change is the law of the universe.",
+    "description": "Nothing is permanent—good or bad.",
+    "example": "Tough times are temporary, like the passing seasons. ()"
+  },
+  {
+    "id": 53,
+    "quote": "A person can rise through the efforts of his own mind.",
+    "description": "Self-effort and discipline shape your destiny.",
+    "example": "Even if born in poverty, hard work and focus can lead to success. ()"
+  },
+  {
+    "id": 54,
+    "quote": "There is neither this world, nor the world beyond, nor happiness for the one who doubts.",
+    "description": "Doubt weakens action and faith. Be confident in your path.",
+    "example": "If you constantly doubt your ability to learn, you’ll stop trying. ()"
+  },
+  {
+    "id": 55,
+    "quote": "Man is made by his belief. As he believes, so he is.",
+    "description": "Your thoughts and beliefs shape your reality.",
+    "example": "If you believe you’re capable, your actions will reflect it. ()"
+  },
+  {
+    "id": 56,
+    "quote": "You have the right to work, but never to the fruit of work.",
+    "description": "Focus on your duties without attachment to outcomes.",
+    "example": "Study hard not just to top the exam, but to gain knowledge. ()"
+  },
+  {
+    "id": 57,
+    "quote": "Change is the law of the universe.",
+    "description": "Nothing is permanent—good or bad.",
+    "example": "Tough times are temporary, like the passing seasons. ()"
+  },
+  {
+    "id": 58,
+    "quote": "A person can rise through the efforts of his own mind.",
+    "description": "Self-effort and discipline shape your destiny.",
+    "example": "Even if born in poverty, hard work and focus can lead to success. ()"
+  },
+  {
+    "id": 59,
+    "quote": "There is neither this world, nor the world beyond, nor happiness for the one who doubts.",
+    "description": "Doubt weakens action and faith. Be confident in your path.",
+    "example": "If you constantly doubt your ability to learn, you’ll stop trying. ()"
+  },
+  {
+    "id": 60,
+    "quote": "Man is made by his belief. As he believes, so he is.",
+    "description": "Your thoughts and beliefs shape your reality.",
+    "example": "If you believe you’re capable, your actions will reflect it. ()"
+  },
+  {
+    "id": 61,
+    "quote": "You have the right to work, but never to the fruit of work.",
+    "description": "Focus on your duties without attachment to outcomes.",
+    "example": "Study hard not just to top the exam, but to gain knowledge. ()"
+  },
+  {
+    "id": 62,
+    "quote": "Change is the law of the universe.",
+    "description": "Nothing is permanent—good or bad.",
+    "example": "Tough times are temporary, like the passing seasons. ()"
+  },
+  {
+    "id": 63,
+    "quote": "A person can rise through the efforts of his own mind.",
+    "description": "Self-effort and discipline shape your destiny.",
+    "example": "Even if born in poverty, hard work and focus can lead to success. ()"
+  },
+  {
+    "id": 64,
+    "quote": "There is neither this world, nor the world beyond, nor happiness for the one who doubts.",
+    "description": "Doubt weakens action and faith. Be confident in your path.",
+    "example": "If you constantly doubt your ability to learn, you’ll stop trying. ()"
+  },
+  {
+    "id": 65,
+    "quote": "Man is made by his belief. As he believes, so he is.",
+    "description": "Your thoughts and beliefs shape your reality.",
+    "example": "If you believe you’re capable, your actions will reflect it. ()"
+  },
+  {
+    "id": 66,
+    "quote": "You have the right to work, but never to the fruit of work.",
+    "description": "Focus on your duties without attachment to outcomes.",
+    "example": "Study hard not just to top the exam, but to gain knowledge. ()"
+  },
+  {
+    "id": 67,
+    "quote": "Change is the law of the universe.",
+    "description": "Nothing is permanent—good or bad.",
+    "example": "Tough times are temporary, like the passing seasons. ()"
+  },
+  {
+    "id": 68,
+    "quote": "A person can rise through the efforts of his own mind.",
+    "description": "Self-effort and discipline shape your destiny.",
+    "example": "Even if born in poverty, hard work and focus can lead to success. ()"
+  },
+  {
+    "id": 69,
+    "quote": "There is neither this world, nor the world beyond, nor happiness for the one who doubts.",
+    "description": "Doubt weakens action and faith. Be confident in your path.",
+    "example": "If you constantly doubt your ability to learn, you’ll stop trying. ()"
+  },
+  {
+    "id": 70,
+    "quote": "Man is made by his belief. As he believes, so he is.",
+    "description": "Your thoughts and beliefs shape your reality.",
+    "example": "If you believe you’re capable, your actions will reflect it. ()"
+  },
+  {
+    "id": 71,
+    "quote": "You have the right to work, but never to the fruit of work.",
+    "description": "Focus on your duties without attachment to outcomes.",
+    "example": "Study hard not just to top the exam, but to gain knowledge. ()"
+  },
+  {
+    "id": 72,
+    "quote": "Change is the law of the universe.",
+    "description": "Nothing is permanent—good or bad.",
+    "example": "Tough times are temporary, like the passing seasons. ()"
+  },
+  {
+    "id": 73,
+    "quote": "A person can rise through the efforts of his own mind.",
+    "description": "Self-effort and discipline shape your destiny.",
+    "example": "Even if born in poverty, hard work and focus can lead to success. ()"
+  },
+  {
+    "id": 74,
+    "quote": "There is neither this world, nor the world beyond, nor happiness for the one who doubts.",
+    "description": "Doubt weakens action and faith. Be confident in your path.",
+    "example": "If you constantly doubt your ability to learn, you’ll stop trying. ()"
+  },
+  {
+    "id": 75,
+    "quote": "Man is made by his belief. As he believes, so he is.",
+    "description": "Your thoughts and beliefs shape your reality.",
+    "example": "If you believe you’re capable, your actions will reflect it. ()"
+  },
+  {
+    "id": 76,
+    "quote": "You have the right to work, but never to the fruit of work.",
+    "description": "Focus on your duties without attachment to outcomes.",
+    "example": "Study hard not just to top the exam, but to gain knowledge. ()"
+  },
+  {
+    "id": 77,
+    "quote": "Change is the law of the universe.",
+    "description": "Nothing is permanent—good or bad.",
+    "example": "Tough times are temporary, like the passing seasons. ()"
+  },
+  {
+    "id": 78,
+    "quote": "A person can rise through the efforts of his own mind.",
+    "description": "Self-effort and discipline shape your destiny.",
+    "example": "Even if born in poverty, hard work and focus can lead to success. ()"
+  },
+  {
+    "id": 79,
+    "quote": "There is neither this world, nor the world beyond, nor happiness for the one who doubts.",
+    "description": "Doubt weakens action and faith. Be confident in your path.",
+    "example": "If you constantly doubt your ability to learn, you’ll stop trying. ()"
+  },
+  {
+    "id": 80,
+    "quote": "Man is made by his belief. As he believes, so he is.",
+    "description": "Your thoughts and beliefs shape your reality.",
+    "example": "If you believe you’re capable, your actions will reflect it. ()"
+  },
+  {
+    "id": 81,
+    "quote": "You have the right to work, but never to the fruit of work.",
+    "description": "Focus on your duties without attachment to outcomes.",
+    "example": "Study hard not just to top the exam, but to gain knowledge. ()"
+  },
+  {
+    "id": 82,
+    "quote": "Change is the law of the universe.",
+    "description": "Nothing is permanent—good or bad.",
+    "example": "Tough times are temporary, like the passing seasons. ()"
+  },
+  {
+    "id": 83,
+    "quote": "A person can rise through the efforts of his own mind.",
+    "description": "Self-effort and discipline shape your destiny.",
+    "example": "Even if born in poverty, hard work and focus can lead to success. ()"
+  },
+  {
+    "id": 84,
+    "quote": "There is neither this world, nor the world beyond, nor happiness for the one who doubts.",
+    "description": "Doubt weakens action and faith. Be confident in your path.",
+    "example": "If you constantly doubt your ability to learn, you’ll stop trying. ()"
+  },
+  {
+    "id": 85,
+    "quote": "Man is made by his belief. As he believes, so he is.",
+    "description": "Your thoughts and beliefs shape your reality.",
+    "example": "If you believe you’re capable, your actions will reflect it. ()"
+  },
+  {
+    "id": 86,
+    "quote": "You have the right to work, but never to the fruit of work.",
+    "description": "Focus on your duties without attachment to outcomes.",
+    "example": "Study hard not just to top the exam, but to gain knowledge. ()"
+  },
+  {
+    "id": 87,
+    "quote": "Change is the law of the universe.",
+    "description": "Nothing is permanent—good or bad.",
+    "example": "Tough times are temporary, like the passing seasons. ()"
+  },
+  {
+    "id": 88,
+    "quote": "A person can rise through the efforts of his own mind.",
+    "description": "Self-effort and discipline shape your destiny.",
+    "example": "Even if born in poverty, hard work and focus can lead to success. ()"
+  },
+  {
+    "id": 89,
+    "quote": "There is neither this world, nor the world beyond, nor happiness for the one who doubts.",
+    "description": "Doubt weakens action and faith. Be confident in your path.",
+    "example": "If you constantly doubt your ability to learn, you’ll stop trying. ()"
+  },
+  {
+    "id": 90,
+    "quote": "Man is made by his belief. As he believes, so he is.",
+    "description": "Your thoughts and beliefs shape your reality.",
+    "example": "If you believe you’re capable, your actions will reflect it. ()"
+  },
+  {
+    "id": 91,
+    "quote": "You have the right to work, but never to the fruit of work.",
+    "description": "Focus on your duties without attachment to outcomes.",
+    "example": "Study hard not just to top the exam, but to gain knowledge. ()"
+  },
+  {
+    "id": 92,
+    "quote": "Change is the law of the universe.",
+    "description": "Nothing is permanent—good or bad.",
+    "example": "Tough times are temporary, like the passing seasons. ()"
+  },
+  {
+    "id": 93,
+    "quote": "A person can rise through the efforts of his own mind.",
+    "description": "Self-effort and discipline shape your destiny.",
+    "example": "Even if born in poverty, hard work and focus can lead to success. ()"
+  },
+  {
+    "id": 94,
+    "quote": "There is neither this world, nor the world beyond, nor happiness for the one who doubts.",
+    "description": "Doubt weakens action and faith. Be confident in your path.",
+    "example": "If you constantly doubt your ability to learn, you’ll stop trying. ()"
+  },
+  {
+    "id": 95,
+    "quote": "Man is made by his belief. As he believes, so he is.",
+    "description": "Your thoughts and beliefs shape your reality.",
+    "example": "If you believe you’re capable, your actions will reflect it. ()"
+  },
+  {
+    "id": 96,
+    "quote": "You have the right to work, but never to the fruit of work.",
+    "description": "Focus on your duties without attachment to outcomes.",
+    "example": "Study hard not just to top the exam, but to gain knowledge. ()"
+  },
+  {
+    "id": 97,
+    "quote": "Change is the law of the universe.",
+    "description": "Nothing is permanent—good or bad.",
+    "example": "Tough times are temporary, like the passing seasons. ()"
+  },
+  {
+    "id": 98,
+    "quote": "A person can rise through the efforts of his own mind.",
+    "description": "Self-effort and discipline shape your destiny.",
+    "example": "Even if born in poverty, hard work and focus can lead to success. ()"
+  },
+  {
+    "id": 99,
+    "quote": "There is neither this world, nor the world beyond, nor happiness for the one who doubts.",
+    "description": "Doubt weakens action and faith. Be confident in your path.",
+    "example": "If you constantly doubt your ability to learn, you’ll stop trying. ()"
+  },
+  {
+    "id": 100,
+    "quote": "Man is made by his belief. As he believes, so he is.",
+    "description": "Your thoughts and beliefs shape your reality.",
+    "example": "If you believe you’re capable, your actions will reflect it. ()"
+  }
+]
