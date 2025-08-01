@@ -1,5 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 import axios from "axios";
+import QuoteModal from "./QuoteModal";
+import QuoteSkeleton from "./QuoteSkeleton";
 
 // const quotes = [
 //   {
@@ -184,7 +186,8 @@ import axios from "axios";
 
 const QuoteFilter = () => {
   const [quotes, setQuotes] = useState([]);
-
+  const [loading, setLoading] = useState(true);
+  const [selectedQuote, setSelectedQuote] = useState(null);
   const moods = ["All", "Peace", "Motivational", "Wisdom", "Spiritual"];
   const [selectedMood, setSelectedMood] = useState("All");
   const [visibleCount, setVisibleCount] = useState(10); // start with 10
@@ -208,6 +211,7 @@ const QuoteFilter = () => {
       try {
         const response = await axios.get(`${import.meta.env.VITE_API_URL}`);
         setQuotes(response.data);
+        setLoading(false);
       } catch (error) {
         console.error("Error fetching quotes:", error);
       }
@@ -264,23 +268,30 @@ const QuoteFilter = () => {
       </div>
 
       <div className="grid gap-6 max-w-2xl mx-auto">
-        {visibleQuotes.map((quote, idx) => (
-          <div
-            key={idx}
-            className="p-6 bg-gradient-to-br from-blue-100/80 via-indigo-100/80 to-purple-100/80 text-gray-800 rounded-xl shadow-xl border border-indigo-200 backdrop-blur-md"
-          >
-            <p className="text-lg italic font-medium mb-3">“{quote.text}” </p>
-            <button
-              className="cursor-pointer"
-              onClick={() => speakQuote(quote.text)}
-            >
-              🔊{" "}
-            </button>
-            <span className="text-sm bg-indigo-200/80 px-3 py-1 rounded-full text-indigo-800 font-semibold">
-              {quote.mood}
-            </span>
-          </div>
-        ))}
+        {loading
+          ? Array(visibleQuotes.length || 6)
+              .fill(0)
+              .map((_, index) => <QuoteSkeleton key={index} />)
+          : visibleQuotes.map((quote, idx) => (
+              <div
+                key={idx}
+                onClick={() => setSelectedQuote(quote)}
+                className="p-6 bg-gradient-to-br from-blue-100/80 via-indigo-100/80 to-purple-100/80 text-gray-800 rounded-xl shadow-xl border border-indigo-200 backdrop-blur-md"
+              >
+                <p className="text-lg italic font-medium mb-3">
+                  “{quote.text}”{" "}
+                </p>
+                <button
+                  className="cursor-pointer"
+                  onClick={() => speakQuote(quote.text)}
+                >
+                  🔊{" "}
+                </button>
+                <span className="text-sm bg-indigo-200/80 px-3 py-1 rounded-full text-indigo-800 font-semibold">
+                  {quote.mood}
+                </span>
+              </div>
+            ))}
 
         <div ref={loaderRef} className="text-center py-6 text-gray-500">
           {visibleCount < filteredQuotes.length
@@ -288,6 +299,10 @@ const QuoteFilter = () => {
             : "No more quotes to show."}
         </div>
       </div>
+      <QuoteModal
+        quote={selectedQuote}
+        onClose={() => setSelectedQuote(null)}
+      />
     </>
   );
 };
