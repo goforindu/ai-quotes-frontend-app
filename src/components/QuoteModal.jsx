@@ -12,7 +12,7 @@ const QuoteModal = ({ quote, onClose }) => {
         >
           ✖
         </button>
-        <div className="flex justify-center items-center flex-col mt-10">
+        <div className="flex justify-center items-center flex-col ">
           <h2 className="text-lg sm:text-xl md:text-2xl font-bold mb-6 text-indigo-800 dark:text-yellow-200 text-center">
             “{quote.text}”
           </h2>
